@@ -1,0 +1,14 @@
+# ai_team_shooter/.gitignore
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# Logs and outputs
+logs/sessions/
+*.log
+
+# Assets (track empty directories)
+assets/textures/.gitkeep
+assets/sounds/.gitkeep
+assets/fonts/.gitkeep
