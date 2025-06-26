@@ -11,4 +11,4 @@ logs/sessions/
 # Assets (track empty directories)
 assets/textures/.gitkeep
 assets/sounds/.gitkeep
-assets/fonts/.gitkeep
+assets/fonts/.gitkeep.vscode/
